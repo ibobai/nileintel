@@ -14,7 +14,7 @@ const Footer: React.FC<FooterProps> = ({ language, t }) => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <img
-                src="/dist/assets/logoCircle.png"
+                src="/dist/assets/logocircle-c7hp9sdt.png"
                 alt="Company Logo"
                 className="h-8 w-8"
               />
