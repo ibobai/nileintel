@@ -30,14 +30,21 @@ const Header: React.FC<HeaderProps> = ({ language, t }) => {
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-gray-900/95 backdrop-blur-sm shadow-lg' : 'bg-transparent'}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
+
           <div className="flex items-center">
             <a href="#" className="flex items-center gap-2">
-              <Brain size={32} className="text-blue-400" />
+            <img
+                src="/dist/img/cropped_image.png"
+                alt="Company Logo"
+                className="h-8 w-8"
+              />              
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
                 {t.header.companyName}
               </span>
             </a>
           </div>
+
+      
           
           {/* Desktop Navigation */}
           <nav className="hidden md:block">
