@@ -34,7 +34,7 @@ const Header: React.FC<HeaderProps> = ({ language, t }) => {
           <div className="flex items-center">
             <a href="#" className="flex items-center gap-2">
             <img
-                src="/dist/assets/logocircle-c7hp9sdt.png"
+                src="/public/logocircle.png"
                 alt="Company Logo"
                 className="h-8 w-8"
               />              
