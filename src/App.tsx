@@ -86,7 +86,7 @@ function App() {
       title: t.founders.ibrahim.title,
       bio: t.founders.ibrahim.bio,
       image:
-        "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1600&auto=format&fit=crop",
+        "/ibra2.jpg",
       linkedin: "https://www.linkedin.com/in/ibrahim-abu-obaida-221074195",
       github: "https://github.com",
       twitter: "https://twitter.com",
@@ -96,7 +96,7 @@ function App() {
       title: t.founders.waleed.title,
       bio: t.founders.waleed.bio,
       image:
-        "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1600&auto=format&fit=crop",
+        "/waleed1.png",
       linkedin: "https://www.linkedin.com/in/waleed-gourashi-6b68a7184",
       github: "https://github.com",
       twitter: "https://twitter.com",
