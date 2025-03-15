@@ -12,7 +12,7 @@ export const translations = {
       }
     },
     hero: {
-      title: "NI",
+      title: "Nile Intelligence",
       subtitle: "Revolutionizing the tech industry through the power of Artificial Intelligence",
       servicesButton: "Our Services",
       contactButton: "Contact Us"
@@ -116,11 +116,11 @@ export const translations = {
       subtitle: "Meet the visionary leaders behind Nile Intelligence who are driving innovation in AI and blockchain technology.",
       ibrahim: {
         title: "Co-Founder & CEO",
-        bio: "Ibrahim Abuobaida is a visionary tech entrepreneur with extensive experience in AI and blockchain technologies. With a background in computer science and a passion for innovation, Ibrahim has led multiple successful tech ventures before co-founding Nile Intelligence. His expertise in artificial intelligence and strategic leadership has been instrumental in positioning the company at the forefront of technological advancement in Africa."
+        bio: "Ibrahim Abuobaida is an experienced web and mobile developer with expertise in database design, app conception, and full-stack software development. He integrates Artificial Intelligence (AI) into applications to enhance performance and innovation, and is skilled in creating cryptocurrencies and implementing AI-driven solutions in existing apps. As a co-founder of NI, Ibrahim is dedicated to revolutionizing industries with smart, scalable, and secure digital solutions."
       },
       waleed: {
         title: "Co-Founder & CEO",
-        bio: "Waleed Gourashi is a brilliant technologist and blockchain expert with a deep understanding of cutting-edge technologies. With a strong background in software engineering and cryptography, Waleed oversees the technical direction of Nile Intelligence. His innovative approach to integrating AI with blockchain solutions has created unique value propositions for clients across various industries. Waleed is committed to developing secure, scalable, and efficient technological solutions."
+        bio: "Waleed Gourashi is a technology strategist and IT solutions architect specializing in AI-driven innovation, cloud computing, and DevOps. As the Co-Founder of Nile Intelligence, he focuses on building intelligent, scalable, and secure digital solutions to help businesses automate, optimize, and grow. With expertise in web & app development, infrastructure automation, and AI-powered business solutions, Waleed has worked with global enterprises to drive digital transformation and enhance operational efficiency. At Nile Intelligence, he leads a team dedicated to bridging technology and business innovation to empower organizations in the digital age."
       }
     },
     crypto: {
@@ -313,11 +313,11 @@ export const translations = {
       subtitle: "تعرف على القادة أصحاب الرؤية وراء ذكاء النيل الذين يقودون الابتكار في تكنولوجيا الذكاء الاصطناعي والبلوكتشين.",
       ibrahim: {
         title: "المؤسس المشارك والرئيس التنفيذي",
-        bio: "إبراهيم أبو عبيدة هو رائد أعمال تقني صاحب رؤية يتمتع بخبرة واسعة في تقنيات الذكاء الاصطناعي والبلوكتشين. مع خلفية في علوم الكمبيوتر وشغف بالابتكار، قاد إبراهيم العديد من المشاريع التقنية الناجحة قبل المشاركة في تأسيس ذكاء النيل. كانت خبرته في الذكاء الاصطناعي وقيادته الاستراتيجية عاملاً أساسياً في وضع الشركة في طليعة التقدم التكنولوجي في أفريقيا."
+        bio: "إبراهيم أبو عبيدة هو مطور ويب وموبايل متمرس يتمتع بخبرة واسعة في تصميم قواعد البيانات، وتصور التطبيقات، وتطوير البرمجيات الكاملة. يملك إبراهيم شغفًا لاستخدام التقنيات الحديثة، حيث يدمج الذكاء الاصطناعي بسلاسة في التطبيقات، مما يعزز الأداء والابتكار. تمتد خبرته إلى إنشاء العملات الرقمية وتنفيذ الحلول المدفوعة بالذكاء الاصطناعي في التطبيقات الحالية، مما يدفع حدود ما يمكن أن تحققه التكنولوجيا. كأحد مؤسسي شركة NI، يلتزم إبراهيم بتحويل الصناعات من خلال حلول رقمية ذكية وقابلة للتوسع وآمنة تعزز نمو الأعمال والكفاءة التشغيلية."
       },
       waleed: {
         title: "المؤسس المشارك والرئيس التنفيذي",
-        bio: "وليد قرشي هو تقني بارع وخبير في البلوكتشين مع فهم عميق للتقنيات المتطورة. مع خلفية قوية في هندسة البرمجيات والتشفير، يشرف وليد على التوجه التقني لشركة ذكاء النيل. أدى نهجه المبتكر في دمج الذكاء الاصطناعي مع حلول البلوكتشين إلى خلق عروض قيمة فريدة للعملاء عبر مختلف الصناعات. وليد ملتزم بتطوير حلول تكنولوجية آمنة وقابلة للتوسع وفعالة."
+        bio: "وليد القرشي هو استراتيجي تقني ومهندس حلول تقنية المعلومات متخصص في الابتكار المعتمد على الذكاء الاصطناعي، الحوسبة السحابية، و DevOps. بصفته الشريك المؤسس لشركة نايل إنتيليجنس، يركز على تطوير حلول رقمية ذكية، قابلة للتوسع، وآمنة لمساعدة الشركات على الأتمتة، التحسين، والنمو. بخبرة في تطوير التطبيقات، أتمتة البنية التحتية، وحلول الأعمال الذكية، عمل وليد مع مؤسسات عالمية لدفع التحول الرقمي وتعزيز الكفاءة التشغيلية. في نايل إنتيليجنس، يقود فريقًا يسعى إلى دمج التكنولوجيا بالابتكار التجاري لتمكين المؤسسات في العصر الرقمي."
       }
     },
     crypto: {
@@ -510,11 +510,11 @@ export const translations = {
       subtitle: "Rencontrez les leaders visionnaires derrière Nile Intelligence qui stimulent l'innovation dans l'IA et la technologie blockchain.",
       ibrahim: {
         title: "Co-Fondateur & PDG",
-        bio: "Ibrahim Abuobaida est un entrepreneur visionnaire dans le domaine de la technologie avec une vaste expérience dans les technologies d'IA et de blockchain. Avec une formation en informatique et une passion pour l'innovation, Ibrahim a dirigé plusieurs entreprises technologiques réussies avant de co-fonder Nile Intelligence. Son expertise en intelligence artificielle et son leadership stratégique ont été déterminants pour positionner l'entreprise à l'avant-garde du progrès technologique en Afrique."
+        bio: "Ibrahim Abuobaida est un développeur web et mobile expérimenté avec une vaste expérience dans la conception de bases de données, la conception d'applications et le développement logiciel complet. Passionné par l'utilisation des technologies de pointe, Ibrahim intègre l'Intelligence Artificielle (IA) de manière transparente dans les applications, améliorant ainsi les performances et l'innovation. Son expertise s'étend à la création de cryptomonnaies et à l'implémentation de solutions basées sur l'IA dans les applications existantes, repoussant les limites de ce que la technologie peut accomplir. En tant que co-fondateur de NI, Ibrahim s'engage à transformer les industries avec des solutions numériques intelligentes, évolutives et sécurisées qui favorisent la croissance des entreprises et l'excellence opérationnelle."
       },
       waleed: {
         title: "Co-Fondateur & CTO",
-        bio: "Waleed Gourashi est un technologue brillant et expert en blockchain avec une compréhension approfondie des technologies de pointe. Avec une solide formation en génie logiciel et en cryptographie, Waleed supervise l'orientation technique de Nile Intelligence. Son approche innovante de l'intégration de l'IA avec les solutions blockchain a créé des propositions de valeur uniques pour les clients dans diverses industries. Waleed s'engage à développer des solutions technologiques sécurisées, évolutives et efficaces."
+        bio: "Waleed Gourashi est un stratège technologique et architecte de solutions informatiques spécialisé dans l'innovation alimentée par l'intelligence artificielle, l'informatique en nuage et le DevOps. En tant que co-fondateur de Nile Intelligence, il se concentre sur la création de solutions numériques intelligentes, évolutives et sécurisées pour aider les entreprises à automatiser, optimiser et croître. Avec une expertise en développement web et d'applications, automatisation de l'infrastructure et solutions commerciales basées sur l'IA, Waleed a travaillé avec des entreprises mondiales pour favoriser la transformation numérique et améliorer l'efficacité opérationnelle. Chez Nile Intelligence, il dirige une équipe dédiée à relier la technologie à l'innovation commerciale pour autonomiser les organisations dans l'ère numérique."
       }
     },
     crypto: {
