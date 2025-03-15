@@ -12,14 +12,14 @@ export const translations = {
       }
     },
     hero: {
-      title: "Nile Intelligence",
+      title: "NI",
       subtitle: "Revolutionizing the tech industry through the power of Artificial Intelligence",
       servicesButton: "Our Services",
       contactButton: "Contact Us"
     },
     about: {
       title: "About Us",
-      paragraph1Part1: "Nile Intelligence is a cutting-edge technology company founded by",
+      paragraph1Part1: " is a cutting-edge technology company founded by",
       ibrahim: "Ibrahim Abuobaida",
       and: "and",
       waleed: "Waleed Gourashi",
@@ -124,16 +124,13 @@ export const translations = {
       }
     },
     crypto: {
-      title: "Our Cryptocurrencies",
+      title: "Our Cryptocurrencies (Comming Soon)",
       subtitle: "Explore the innovative digital currencies developed and launched by Nile Intelligence.",
       launched: "Launched",
       visitWebsite: "Visit Website",
       learnMore: "Learn More",
       nileToken: {
         description: "NileToken (NILE) is our flagship cryptocurrency designed to power the African digital economy. It features advanced smart contract capabilities and focuses on cross-border transactions with minimal fees."
-      },
-      sudanCoin: {
-        description: "SudanCoin (SDC) is a specialized digital currency created to facilitate local transactions within Sudan. It offers stable value and integration with local payment systems."
       },
       africaChain: {
         description: "AfricaChain (AFC) is a revolutionary blockchain platform and cryptocurrency designed to connect African businesses and consumers. It provides a secure infrastructure for digital transactions across the continent."
@@ -219,7 +216,7 @@ export const translations = {
     },
     about: {
       title: "من نحن",
-      paragraph1Part1: "ذكاء النيل هي شركة تكنولوجيا متطورة أسسها",
+      paragraph1Part1: "  هي شركة تكنولوجيا متطورة أسسها  " ,
       ibrahim: "إبراهيم أبو عبيدة",
       and: "و",
       waleed: "وليد قرشي",
@@ -324,16 +321,13 @@ export const translations = {
       }
     },
     crypto: {
-      title: "عملاتنا الرقمية",
+      title: "عملاتنا الرقمية (قريباً)",
       subtitle: "استكشف العملات الرقمية المبتكرة التي طورتها وأطلقتها شركة ذكاء النيل.",
       launched: "تم الإطلاق",
       visitWebsite: "زيارة الموقع",
       learnMore: "معرفة المزيد",
       nileToken: {
         description: "نايل توكن (NILE) هي عملتنا الرقمية الرائدة المصممة لتمكين الاقتصاد الرقمي الأفريقي. تتميز بقدرات عقود ذكية متقدمة وتركز على المعاملات عبر الحدود برسوم ضئيلة."
-      },
-      sudanCoin: {
-        description: "سودان كوين (SDC) هي عملة رقمية متخصصة تم إنشاؤها لتسهيل المعاملات المحلية داخل السودان. توفر قيمة مستقرة وتكامل مع أنظمة الدفع المحلية."
       },
       africaChain: {
         description: "أفريكا تشين (AFC) هي منصة بلوكتشين وعملة رقمية ثورية مصممة لربط الشركات والمستهلكين الأفريقيين. توفر بنية تحتية آمنة للمعاملات الرقمية عبر القارة."
@@ -370,7 +364,7 @@ export const translations = {
         name: "الاسم الكامل",
         namePlaceholder: "اسمك",
         email: "البريد الإلكتروني",
-        emailPlaceholder: "بريدك@مثال.كوم",
+        emailPlaceholder: "email@example.com",
         subject: "الموضوع",
         subjectPlaceholder: "اختر موضوعًا",
         subjects: [
@@ -419,7 +413,7 @@ export const translations = {
     },
     about: {
       title: "À Propos de Nous",
-      paragraph1Part1: "Nile Intelligence est une entreprise technologique de pointe fondée par",
+      paragraph1Part1: " est une entreprise technologique de pointe fondée par",
       ibrahim: "Ibrahim Abuobaida",
       and: "et",
       waleed: "Waleed Gourashi",
@@ -524,16 +518,13 @@ export const translations = {
       }
     },
     crypto: {
-      title: "Nos Cryptomonnaies",
+      title: "Nos Cryptomonnaies (Bientôt)",
       subtitle: "Explorez les monnaies numériques innovantes développées et lancées par Nile Intelligence.",
       launched: "Lancé le",
       visitWebsite: "Visiter le Site",
       learnMore: "En Savoir Plus",
       nileToken: {
         description: "NileToken (NILE) est notre cryptomonnaie phare conçue pour alimenter l'économie numérique africaine. Elle dispose de capacités avancées de contrats intelligents et se concentre sur les transactions transfrontalières avec des frais minimes."
-      },
-      sudanCoin: {
-        description: "SudanCoin (SDC) est une monnaie numérique spécialisée créée pour faciliter les transactions locales au Soudan. Elle offre une valeur stable et une intégration avec les systèmes de paiement locaux."
       },
       africaChain: {
         description: "AfricaChain (AFC) est une plateforme blockchain révolutionnaire et une cryptomonnaie conçue pour connecter les entreprises et les consommateurs africains. Elle fournit une infrastructure sécurisée pour les transactions numériques à travers le continent."
